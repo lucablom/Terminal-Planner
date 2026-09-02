@@ -115,5 +115,3 @@ Corrections to article data are the most useful contribution — especially widt
 
 MIT
 
-
-Note that the product data in this repository originates from Beckhoff's published material. Your own code and the product data are two different things, and redistributing the data publicly is worth a moment's thought before the repository goes public.
